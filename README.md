@@ -1,7 +1,10 @@
-# test coverage for  [vinyl (v2.0.1)](https://github.com/gulpjs/vinyl#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-vinyl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vinyl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vinyl.svg)](https://travis-ci.org/npmtest/node-npmtest-vinyl)
+# npmtest-vinyl
+
+#### test coverage for  [vinyl (v2.0.1)](https://github.com/gulpjs/vinyl#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-vinyl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vinyl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vinyl.svg)](https://travis-ci.org/npmtest/node-npmtest-vinyl)
+
 #### Virtual file format.
 
-[![NPM](https://nodei.co/npm/vinyl.png?downloads=true)](https://www.npmjs.com/package/vinyl)
+[![NPM](https://nodei.co/npm/vinyl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/vinyl)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-vinyl/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-vinyl/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-vinyl/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-vinyl/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-vinyl/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-vinyl/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-vinyl/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-vinyl/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-vinyl/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-vinyl/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-vinyl%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-vinyl/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-vinyl/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-vinyl/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-vinyl/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-vinyl%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-vinyl/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-vinyl/build/test-report.html](https://npmtest.github.io/node-npmtest-vinyl/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-vinyl/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-vinyl/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-vinyl/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-vinyl/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-vinyl/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-vinyl/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-vinyl/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +37,6 @@
 {
     "author": {
         "name": "Gulp Team",
-        "email": "team@gulpjs.com",
         "url": "http://gulpjs.com/"
     },
     "bugs": {
@@ -36,12 +44,10 @@
     },
     "contributors": [
         {
-            "name": "Eric Schoffstall",
-            "email": "yo@contra.io"
+            "name": "Eric Schoffstall"
         },
         {
-            "name": "Blaine Bublitz",
-            "email": "blaine.bublitz@gmail.com"
+            "name": "Blaine Bublitz"
         }
     ],
     "dependencies": {
@@ -92,21 +98,17 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "contra",
-            "email": "contra@wearefractal.com"
+            "name": "contra"
         },
         {
-            "name": "fractal",
-            "email": "contact@wearefractal.com"
+            "name": "fractal"
         },
         {
-            "name": "phated",
-            "email": "blaine.bublitz@gmail.com"
+            "name": "phated"
         }
     ],
     "name": "vinyl",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/gulpjs/vinyl.git"
