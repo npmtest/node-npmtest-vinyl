@@ -1,6 +1,6 @@
 # npmtest-vinyl
 
-#### test coverage for  [vinyl (v2.0.1)](https://github.com/gulpjs/vinyl#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-vinyl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vinyl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vinyl.svg)](https://travis-ci.org/npmtest/node-npmtest-vinyl)
+#### basic test coverage for  [vinyl (v2.0.2)](https://github.com/gulpjs/vinyl#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-vinyl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vinyl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vinyl.svg)](https://travis-ci.org/npmtest/node-npmtest-vinyl)
 
 #### Virtual file format.
 
@@ -73,8 +73,8 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "1c3b4931e7ac4c1efee743f3b91a74c094407bb6",
-        "tarball": "https://registry.npmjs.org/vinyl/-/vinyl-2.0.1.tgz"
+        "shasum": "0a3713d8d4e9221c58f10ca16c0116c9e25eda7c",
+        "tarball": "https://registry.npmjs.org/vinyl/-/vinyl-2.0.2.tgz"
     },
     "engines": {
         "node": ">= 0.10"
@@ -84,7 +84,7 @@
         "index.js",
         "lib"
     ],
-    "gitHead": "12d62daa7e43cb7f5699928a4cbb057d6aa9b251",
+    "gitHead": "e014ed1594f537ef469416610ab336d7b489630b",
     "homepage": "https://github.com/gulpjs/vinyl#readme",
     "keywords": [
         "virtual",
@@ -120,7 +120,7 @@
         "pretest": "npm run lint",
         "test": "mocha --async-only"
     },
-    "version": "2.0.1"
+    "version": "2.0.2"
 }
 ```
 
